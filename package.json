@@ -1,0 +1,32 @@
+{
+  "name": "octobus",
+  "version": "0.0.1",
+  "description": "fast, simple request/response bus based on octobit",
+  "main": "index.js",
+  "dependencies": {
+    "net-buffer": "^0.0.7",
+    "net-socket-reconnect": "^0.0.2",
+    "octobit": "^0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidSky/node-octobus.git"
+  },
+  "keywords": [
+    "net",
+    "tcp",
+    "rpc",
+    "messaging",
+    "octobit"
+  ],
+  "author": "David Sky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidSky/node-octobus/issues"
+  },
+  "homepage": "https://github.com/davidSky/node-octobus"
+}
